@@ -1,7 +1,6 @@
 # CSE-5819-Research-Projects
-Spring 2026 CSE5819-Introduction to Machine Learning
-
-# OCT Disease Classification Project
+Spring 2026
+CSE5819-Introduction to Machine Learning
 
 ## Overview
 This project focuses on Sleep Apnea detection using St. Vincent's University Hospital/ University college Dublin Sleep Apnea Database.  
