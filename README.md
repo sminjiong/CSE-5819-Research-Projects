@@ -10,6 +10,7 @@ This project focuses on Sleep Apnea detection using St. Vincent's University Hos
 The model was inspired by *"MAESTRO : Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series"*, and the framework was adapted and modified based on the propsed architecture
 *Research Paper URL: https://arxiv.org/abs/2509.25278*
 *MAESTRO code: https://github.com/payalmohapatra/MAESTRO*
+
 ---
 
 # Project Structure
