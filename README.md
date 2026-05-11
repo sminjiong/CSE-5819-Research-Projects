@@ -3,11 +3,11 @@ Spring 2026
 CSE5819-Introduction to Machine Learning
 
 ## Overview
-This project focuses on Sleep Apnea detection using St. Vincent's University Hospital/ University college Dublin Sleep Apnea Database.  
+This project focuses on Sleep Apnea detection using St. Vincent's University Hospital/ University college Dublin Sleep Apnea Database.    
 *Database URL: https://physionet.org/content/ucddb/1.0.0/*
 
-The model was inspired by *"MAESTRO : Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series"*, and the framework was adapted and modified based on the propsed architecture
-*Research Paper URL: https://arxiv.org/abs/2509.25278*
+The model was inspired by *"MAESTRO : Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series"*, and the framework was adapted and modified based on the propsed architecture  
+*Research Paper URL: https://arxiv.org/abs/2509.25278*  
 *MAESTRO code: https://github.com/payalmohapatra/MAESTRO*
 
 ---
