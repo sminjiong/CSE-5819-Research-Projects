@@ -23,13 +23,13 @@ CSE-5819-Research-Projects/
 │
 ├── main/
 │   ├── CSE5819_Final.py
-│   │   # Final experiment pipeline
+│   │   # Final experiment pipeline, evaluation
 │   └── main.py
-│       # Main execution script
+│       # Main execution script, training and validation
 │
 ├── models/
 │   ├── our_models.py
-│   │   # Model architectures (CNN, CNN-GRU, etc.)
+│   │   # Model architectures 
 │   └── train_utils.py
 │       # Training, validation, and test functions
 │
