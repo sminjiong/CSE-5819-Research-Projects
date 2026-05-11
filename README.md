@@ -15,7 +15,7 @@ The model was inspired by *"MAESTRO : Adaptive Sparse Attention and Robust Learn
 # Project Structure
 
 ```bash
-project_root/
+CSE-5819-Research-Projects/
 │
 ├── data_utils/
 │   └── sleepapnea_dataset.py
@@ -56,5 +56,3 @@ Once you run main.py you can evaluate the results in:
 ```bash
 python main/CSE5819_Final.py
 ```
-
-CSE 5819 Final Project
